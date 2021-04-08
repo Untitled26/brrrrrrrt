@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/21/39/3c/21393c41e9afb4beb99e32a5be5f3655.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    }
+    
+    main {
+    background-color: rgb(255, 255, 255);
+    width: 75%;
+    text-align: center;
+    padding: 3% 5%;
+    margin: 40px auto;
+    border-radius: 15px;
+    }
+    
+    nav {
+    background-color: rgb(53, 71, 44);
+    color: rgb(255, 255, 255);
+    border-bottom: 1px rgb(237, 255, 71) double;
+    padding: 15px 0;
+    }
+    
+    nav ul {
+    list-style-type: none;
+    padding: 0;
+    color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    }
+    
+    ul, ol {
+    list-style-position: inside;
+    }
+    
+    
+   
